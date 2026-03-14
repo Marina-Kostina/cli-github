@@ -78,3 +78,4 @@ func main() {
 	fmt.Printf("Дата создания: %s\n", repository.CreatedAt[:10])
 	fmt.Println(strings.Repeat("-", 80))
 }
+//---
